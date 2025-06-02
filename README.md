@@ -4,7 +4,7 @@
 
 This project demonstrates an end-to-end anomaly detection framework originally developed and refined during my time at Gibson Consulting. It showcases my expertise in building ETL pipelines, cleaning and transforming large datasets, and applying advanced outlier detection techniques. The framework integrates PySpark for scalable data processing, Pandas for data manipulation, and machine learning libraries like Scikit-learn to identify outliers using Z-Score, IQR, and Isolation Forest. 
 
-The pipeline:
+The notebook:
 - Ingests and cleans transactional data, handling inconsistent formats and missing values.
 - Aggregates and bins spend data to provide a comprehensive overview.
 - Applies multiple anomaly detection methods to identify suspicious patterns.
