@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates an end-to-end anomaly detection framework originally developed and refined during my time at Gibson Consulting. It showcases my expertise in building ETL pipelines, cleaning and transforming large datasets, and applying advanced outlier detection techniques. The framework integrates PySpark for scalable data processing, Pandas for data manipulation, and machine learning libraries like Scikit-learn to identify outliers using Z-Score, IQR, and Isolation Forest. 
+This project demonstrates an end-to-end anomaly detection framework originally developed and refined as part of a professional supply chain analytics project. It showcases my expertise in building ETL pipelines, cleaning and transforming large datasets, and applying advanced outlier detection techniques. The framework integrates PySpark for scalable data processing, Pandas for data manipulation, and machine learning libraries like Scikit-learn to identify outliers using Z-Score, IQR, and Isolation Forest.
 
 The notebook:
 - Ingests and cleans transactional data, handling inconsistent formats and missing values.
@@ -20,8 +20,10 @@ The notebook:
 ✅ **PySpark** — scalable data engineering and transformation at scale.  
 ✅ **Pandas** — flexible data manipulation and integration with Spark outputs.  
 ✅ **Machine Learning** — Isolation Forest implementation using Scikit-learn.  
-✅ **Data Visualisation** — distribution analysis and summarisation using Matplotlib.  
+✅ **Data Visualisation** — distribution analysis and summary reports using Matplotlib.
 
 ---
 
-This project highlights my ability to build robust, production-ready data pipelines that integrate statistical and machine learning approaches for anomaly detection in real-world datasets.
+## Why This Project Matters
+
+This project highlights my ability to build robust, production-ready data pipelines that integrate statistical and machine learning approaches for anomaly detection in real-world datasets. It demonstrates practical skills in transforming raw data into actionable insights, essential for data-driven decision-making.
