@@ -1,4 +1,4 @@
-# Outlier Detection Framework (PySpark)
+# Outlier Detection Framework using PySpark
 
 ## Overview
 
